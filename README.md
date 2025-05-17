@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Open Source
+
+- [rust-bitcoin](https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=+is%3Apr+author%3Atushar994+)
+- [foundry](https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3Atushar994+)
